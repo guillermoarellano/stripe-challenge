@@ -1,6 +1,14 @@
-# StripeChallenge
+# Stripe Coding Challenge
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+
+The inspiration was a coding interview challenge for [Stripe](https://stripe.com/). The company does all their frontend in React.js, but my solution is written in Angular.
+
+The meat of the solution rests in the Regex and event listeners emitting from the `<input>` element. See the [Phone Mask](src\app\phone-mask.directive.ts) directive for important logic.
+
+## Running the Application
+
+Clone the repository, navigate into the folder, and run `npm install`.
 
 ## Development server
 
