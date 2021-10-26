@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'stripe-challenge';
+  // Nothing to see here. Look at the template (app.component.html), that's where the magic is.
 }
